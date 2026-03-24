@@ -16,7 +16,4 @@ class Animal:
         return (f"Kingdom: {self.kingdom}\n"
                 f"Name: {self.name}\n"
                 f"Species: {self.species}\n")
-
-    # TODO __str__ method for string representation
-    # Example output
-    # Kingdom: 'kingdom attribute', Name: 'name attribute' Species: 'species attribute' 
+ 
