@@ -3,7 +3,10 @@ from animal import Animal
 
 if __name__ == "__main__":
 
+    # instance of the animal class -- instatiation
+    # the object
     dog1 = Animal("Fido", "Canine")
+    
     dog2 = Animal("Nala", "Canine")
 
     print(dog1)
