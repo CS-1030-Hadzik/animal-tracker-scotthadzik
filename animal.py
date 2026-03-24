@@ -14,7 +14,7 @@ class Animal:
 
     # class method
     def speak(self): # pass self error methods 0 argument expected 1
-        print (f"{self.name} makes a noise")
+        print (f"{self.name} makes a noise\n")
 
 
     # overiding the print function to send a formatted string when print
