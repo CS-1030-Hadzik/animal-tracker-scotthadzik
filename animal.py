@@ -7,7 +7,7 @@ class Animal:
     kingdom = "Animalia"
 
     #object specific attributes contructor initializer
-    def __init__(self, name, species): # 
+    def __init__(self, name, species):  
         self.name = name
         self.species = species
 
